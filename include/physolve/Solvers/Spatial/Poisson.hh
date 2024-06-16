@@ -1,5 +1,7 @@
 #pragma once
 
+#include <optional>
+
 #include "../../Mesh.hh"
 
 namespace ps::Solvers::Spatial

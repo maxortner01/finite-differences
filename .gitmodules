@@ -1,3 +1,6 @@
 [submodule "extern/eigen"]
 	path = extern/eigen
 	url = https://github.com/libigl/eigen
+[submodule "extern/stb"]
+	path = extern/stb
+	url = https://github.com/nothings/stb
